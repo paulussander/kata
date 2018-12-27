@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'be.sander'
+group 'be.kunlabora'
 version '1.0-SNAPSHOT'
 
 repositories {
